@@ -15,7 +15,9 @@
 
 Graphora is a web app where you paste a GitHub repository link and it automatically analyzes the entire codebase for you.
 
-It reads the code, fetches the documentation, finds all dependencies, checks for security issues, and gives you a clean report — without making anything up.
+It reads the code,finds all dependencies, checks for security issues, and gives you a clean report — without making anything up.
+
+ScrapeGraphAI helped extract and structure repository documentation, improving retrieval quality and contextual grounding inside the RAG pipeline.
 
 ---
 
