@@ -1,0 +1,17 @@
+langchain
+langchain-chroma
+langchain-groq
+langchain-huggingface
+langchain_text_splitters
+langgraph
+mcp
+neo4j
+pydantic
+python-dotenv
+scrapegraph-py
+sentence-transformers
+streamlit
+torchvision
+cachetools
+tree-sitter
+tree-sitter-languages
